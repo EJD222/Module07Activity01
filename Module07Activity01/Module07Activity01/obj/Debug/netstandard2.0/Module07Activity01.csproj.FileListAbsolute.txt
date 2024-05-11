@@ -1,0 +1,15 @@
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\bin\Debug\netstandard2.0\Module07Activity01.deps.json
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\bin\Debug\netstandard2.0\Module07Activity01.dll
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\bin\Debug\netstandard2.0\ref\Module07Activity01.dll
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\bin\Debug\netstandard2.0\Module07Activity01.pdb
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\Module07Activity01.csproj.AssemblyReference.cache
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\Module07Activity01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\Module07Activity01.AssemblyInfoInputs.cache
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\Module07Activity01.AssemblyInfo.cs
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\Module07Activity01.csproj.CoreCompileInputs.cache
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\Module07Activity01.dll
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\refint\Module07Activity01.dll
+D:\Users\PC\Coding Grinds\Repositories\Module07Activity01\Module07Activity01\Module07Activity01\obj\Debug\netstandard2.0\Module07Activity01.pdb
