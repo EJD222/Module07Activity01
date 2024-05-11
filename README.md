@@ -8,8 +8,8 @@
 ## Hello World
 ### Source Code
 - [MainPage.xaml](Module07Activity01/Module07Activity01/MainPage.xaml)
-# APK
-- [Module07Activity01_EJD](Module07Activity01/Module07Activity01_EJD)
+### APK
+- [Module07Activity01_EJD](Module07Activity01_EJD.apk)
 ### Output Screenshots
 <p align="center">
     <img src="Screenshots/Application.png" alt="Main Page" width="270" height="585">
